@@ -1,0 +1,29 @@
+.table-container {
+    margin-top: 20px;
+  }
+
+  .table {
+    background-color: #fff;
+    color: #333;
+  }
+
+  .table thead th {
+    background-color: #f8f9fa;
+    border-color: #dee2e6;
+  }
+
+  .table-hover tbody tr:hover {
+    background-color: #f8f9fa;
+  }
+
+  .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+
+  .btn-danger:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+  }
+
+  
